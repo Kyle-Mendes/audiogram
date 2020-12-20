@@ -15,6 +15,13 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "Wine or Milk": {
+    "backgroundImage": "wineormilk.jpg",
+    "height": 1280,
+    "width": 1280,
+    "pattern": "bars",
+    "foregroundColor": "#19824C"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
